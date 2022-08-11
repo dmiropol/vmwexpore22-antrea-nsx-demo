@@ -1,7 +1,7 @@
 {
   "env": {
-    "nsxmgr": "https://lm-paris.corp.local",
+    "nsxmgr": "https://<nsxmgr-uri-ip>",
     "nsx_user": "admin",
-    "nsx_password": "VMware1!VMware1!"
+    "nsx_password": "secretpasswordhere"
   }
 }
